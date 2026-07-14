@@ -1,2 +1,0 @@
-contours,precision,recall,iou
-4,1.0000,0.6016,0.6016
